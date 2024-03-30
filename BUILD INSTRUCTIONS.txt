@@ -1,2 +1,2 @@
 In Terminal of Program's Location:
-pyinstaller --onefile --windowed --icon Wol.ico --add-data "Chad.png;." --add-data "Super.png;." --add-data "Wol.png;/" AI.py
+pyinstaller --onefile --windowed --icon Wol.ico --add-data "Chad.png;." --add-data "Super.png;." --add-data "Wol.png;." AI.py
